@@ -1,0 +1,11 @@
+Things that I learned
+*Script tag
+*variables
+*numbers
+*strings
+*console.log()
+*functions
+*The DOM
+*getElementById()
+*innerText
+*textContent

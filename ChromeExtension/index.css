@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+h1 {
+    color: goldenrod;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    border-radius: 5px;
+    background: #5f9341;
+    color: white;
+    width: 150px;
+    padding: 10px 20px;
+    font-weight: bold;
+    border: none;
+    margin: 3px;
+
+}
+
+
+p {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #5f9341;
+}
+
+#delete-el {
+    background-color: white;
+    color: #5f9341;
+    border: solid;
+    border-width: 0.5px;
+    border-color: #5f9341;
+    
+}

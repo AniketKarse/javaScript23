@@ -1,0 +1,45 @@
+body {
+    background-image: url("green.jpg");
+    background-size: cover;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+h1 {
+    color: goldenrod;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    border-radius: 5px;
+    background: goldenrod;
+    color : #016f32;
+    width: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    margin: 3px;
+
+}
+
+
+p {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#increment-btn {
+    background: darkred;
+}
+#save-btn {
+    background: darkgreen;
+}

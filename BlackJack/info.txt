@@ -1,0 +1,10 @@
+learned
+*arrays
+*objects
+*booleans
+*is else statements
+*comparison operators
+*logical operators
+*for loops
+*Math object
+*return statements

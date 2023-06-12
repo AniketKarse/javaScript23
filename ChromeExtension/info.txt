@@ -1,0 +1,10 @@
+learned
+*const
+*addEventListener()
+*innerHTML
+*input.value
+*function parameters
+*template strings
+*localStorage
+*The JSON object (JSON.stringify() and JSON.parse)
+objects in arrays
